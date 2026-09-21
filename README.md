@@ -1,3 +1,8 @@
+# Archive notice
+
+This repository is an archival copy of a previously deleted llama.cpp fork (cachyllama.cpp), recovered for reference purposes. It is not actively maintained, and no updates, fixes, or support should be expected. For current development, please use the upstream llama.cpp project or another actively maintained fork.
+
+
 # CachyLLama
 
 A performance-focused fork of [llama.cpp](https://github.com/ggml-org/llama.cpp) for
